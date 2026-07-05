@@ -8,7 +8,6 @@ A self-hosted Network Attached Storage platform built with Flask and React. Uplo
 ![SQLite](https://img.shields.io/badge/SQLite-Default-lightgrey.svg)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supported-336791.svg)
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
-[![GitHub README](https://img.shields.io/badge/GitHub-README-blue?logo=github)](https://github.com/benjaminjaklic/NAS_readme.git)
 [![Buy on Gumroad](https://img.shields.io/badge/Buy%20on%20Gumroad-FF90E8?logo=gumroad)](https://nasdev.gumroad.com/l/kfcimh)
 
 ---
