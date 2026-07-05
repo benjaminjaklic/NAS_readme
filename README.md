@@ -8,6 +8,8 @@ A self-hosted Network Attached Storage platform built with Flask and React. Uplo
 ![SQLite](https://img.shields.io/badge/SQLite-Default-lightgrey.svg)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supported-336791.svg)
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
+[![GitHub README](https://img.shields.io/badge/GitHub-README-blue?logo=github)](https://github.com/benjaminjaklic/NAS_readme.git)
+[![Buy on Gumroad](https://img.shields.io/badge/Buy%20on%20Gumroad-FF90E8?logo=gumroad)](https://nasdev.gumroad.com/l/kfcimh)
 
 ---
 
@@ -615,6 +617,16 @@ This is a one-time source-code purchase sold through Gumroad.
 - **Support:** No dedicated support or customization is included. Documentation and the Docker deployment are designed to work out of the box.
 - **Redistribution:** Reselling or redistributing the source code itself is strictly prohibited.
 - **Commercial Use / SaaS:** If you use this software as a SaaS or to generate profit, 5% of net profits (not revenue) is owed to the author. This applies only when the product is a direct source of profit, not to internal company use.
+
+---
+
+## About the Project
+
+Hi — I’m a student who has been building this NAS system in my free time for over two years. It started as a personal project to learn full-stack development and eventually grew into something I thought other people might actually want to use.
+
+I’m selling it mainly to earn a bit of extra money while studying, and to see if something I built can help other people self-host their own files without paying monthly subscriptions.
+
+If you buy it, thank you — it genuinely means a lot.
 
 ---
 
